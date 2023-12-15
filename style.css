@@ -500,6 +500,14 @@ main {
     margin-left: 0px;
   }
   
+  .content-sec .column{
+    padding-left: 0px !important;
+  }
+
+  .suggested-container{
+    margin-left: -10px !important;
+  }
+
   header .nav-bar .left-sec{
     margin-right: 0px;
 
